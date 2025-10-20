@@ -21,5 +21,9 @@
 			</array>
 		</dict>
 	</dict>
+	<key>OPENWEATHER_API_KEY</key>
+	<string>YOUR_API_KEY_HERE</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We use your location to show local weather.</string>
 </dict>
 </plist>
