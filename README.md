@@ -12,7 +12,7 @@ Features
 
 Tech
 
-- Language/SDK: Swift 5+, iOS 16+ (Xcode 16)
+- Language/SDK: Swift 5+, iOS 26+ 
 - Architecture: MVVM, protocol‑oriented seam (`WeatherServicing`), `@MainActor` ViewModel
 - Concurrency: async/await, `Task`, `withCheckedContinuation` (for CoreLocation/authorization + CLGeocoder)
 - Networking: Alamofire 5 (validate + Data serializer) calling Open‑Meteo Forecast & Geocoding APIs
